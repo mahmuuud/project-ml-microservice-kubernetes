@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/github/mahmuuud/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/github/mahmuuud/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/pipelines/github/mahmuuud/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/pipelines/github/mahmuuud/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
